@@ -2,7 +2,6 @@
 <Project
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.cws.documenttypes.project.Project"
-	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="98FA9BBD-851C-A1EF-8607-65921D515A0E">
 	<DocumentID>98FA9BBD-851C-A1EF-8607-65921D511A0E</DocumentID>
 	<Name>sample</Name>
